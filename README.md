@@ -62,4 +62,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # laravel_mongodb install
 
 - **laragon : https://laragon.org/**
-- **php_mongodb.dell : https://pecl.php.net/package/mongodb/1.8.2/windows**
+- **php_mongodb.dll : https://pecl.php.net/package/mongodb/1.8.2/windows**
