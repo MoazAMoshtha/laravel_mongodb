@@ -59,5 +59,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# laravel_mongodb
-"# laravel_mongodb" 
+# laravel_mongodb install
+
+laragon : https://laragon.org/
+php_mongodb.dell : https://pecl.php.net/package/mongodb/1.8.2/windows
